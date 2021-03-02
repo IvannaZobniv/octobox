@@ -1,0 +1,14 @@
+cd D:/MY/KNU/3_COURSE/2_Semertr/Programing_GIS/My_work/2021
+git init
+git status
+git add octocat.txt
+git commit -m "Add cute octocat story"
+
+git add *
+it add '*.txt'
+
+git log
+git remote add origin https://github.com/IvannaZobniv/octobox.git
+git push -u origin master
+git add octofamily/octodog.txt
+git reset octofamily/octodog.txt
